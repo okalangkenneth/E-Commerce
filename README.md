@@ -1,5 +1,15 @@
 # E-commerce RESTful API using ASP.NET Core and Entity Framework Core
 
+## Table of Contents:
+1. [Introduction](#introduction)
+2. [ Objective](#objective)
+3. [Technologies Used](#technologies-used)
+4. [Features](#features)
+5. [Code Snippets](#code-snippets)
+6. [Challenges and Learnings](#challenges-and-learnings)
+7. [Results](#results)
+8. [Future Scope](#future-scope)
+
 ## Introduction:
 This project is a comprehensive RESTful API for a fictional e-commerce platform that includes features such as product catalog management, customer registration and authentication, order management, and a shopping cart. The API was implemented using ASP.NET Core, and Entity Framework Core was used for the data access layer.
 
@@ -24,5 +34,4 @@ Discuss the final outcome of the project. For example, the API's successful resp
 ## Future Scope:
 Suggest potential improvements or features that could be added in the future.
 
-## Project Link:
-Include a link to the project on GitHub or another platform where viewers can see your code.
+
