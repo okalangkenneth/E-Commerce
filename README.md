@@ -11,7 +11,7 @@
 8. [Future Scope](#future-scope)
 
 ## Introduction:
-This project is a comprehensive RESTful API for a fictional e-commerce platform that includes features such as product catalog management, customer registration and authentication, order management, and a shopping cart. The API was implemented using ASP.NET Core, and Entity Framework Core was used for the data access layer.
+This project is a comprehensive RESTful API for an e-commerce platform that includes features such as product catalog management, customer registration and authentication, order management, and a shopping cart. The API was implemented using ASP.NET Core, and Entity Framework Core was used for the data access layer.
 
 ## Objective:
 This project was undertaken to demonstrate my ability to design and implement complex APIs and to deepen my understanding of ASP.NET Core and Entity Framework Core.
